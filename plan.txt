@@ -1,3 +1,3 @@
-Day 1: Install Ubuntu
+Day 1: Install Ubuntu(done)
 Day 2: Learn Git
 Day 3: Fix conflicts
