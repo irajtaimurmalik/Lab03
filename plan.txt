@@ -1,1 +1,3 @@
-Day 3: Fix Conflicts
+Day 1: Install Ubuntu
+Day 2: Learn Git
+Day 3: Fix conflicts
